@@ -2,6 +2,7 @@
 layout: default
 title: Принципи використання ШІ
 last_modified: 2024-09-23
+version: 1.0-draft
 ---
 
 # Принципи використання генеративного ШІ
@@ -43,4 +44,5 @@ last_modified: 2024-09-23
 
 --
 
-Останнє редагування: {{ page.last_modified }}
+Останнє редагування: {{ page.last_modified }}  
+Версія: {{ page.version }}
