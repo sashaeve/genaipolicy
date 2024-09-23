@@ -3,6 +3,7 @@ layout: default
 title: Принципи використання ШІ
 last_modified: 2024-09-23
 version: 1.0-draft
+license: Creative Commons Attribution (CC BY)
 ---
 
 # Принципи використання генеративного ШІ
@@ -45,4 +46,5 @@ version: 1.0-draft
 --
 
 Останнє редагування: {{ page.last_modified }}  
-Версія: {{ page.version }}
+Версія: {{ page.version }}  
+Ліцензія: {{ page.license }}
