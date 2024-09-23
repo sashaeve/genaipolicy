@@ -13,6 +13,4 @@ title: Про автора
 
 Автор курсу ["Початок роботи з ChatGPT"](https://prometheus.org.ua/course/course-v1:Prometheus+GPT101+2023_T1) на українській навчальній онлайн-платформі Prometheus так книги ["ChatGPT, DALL·E, Midjourney: Як генеративний штучний інтелект змінює світ"](https://www.arthuss.com.ua/shop/yak-heneratyvnyy-shtuchnyy-intelekt-zminyuye-svit).
 
-Підписатись:
-
-[Нештучний інтелект (канал)](https://t.me/neshtuchnyi) | [Facebook](https://www.facebook.com/oleksandr.krakovetskyi) | [LinkedIn](https://www.linkedin.com/in/sashaeve/) | [Linktr](https://linktr.ee/oleksandr.krakovetskyi)
+Підписатись: [Нештучний інтелект (канал)](https://t.me/neshtuchnyi), [Facebook](https://www.facebook.com/oleksandr.krakovetskyi), [LinkedIn](https://www.linkedin.com/in/sashaeve/), [Linktr](https://linktr.ee/oleksandr.krakovetskyi).
